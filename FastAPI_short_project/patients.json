@@ -1,0 +1,162 @@
+{
+  "P002": {
+    "name": "Michael Smith",
+    "age": 45,
+    "gender": "Male",
+    "city": "Chicago",
+    "height": 178,
+    "weight": 82,
+    "bmi": 25.9,
+    "verdict": "Not Obese"
+  },
+  "P003": {
+    "name": "Priya Patel",
+    "age": 29,
+    "gender": "Female",
+    "city": "San Francisco",
+    "height": 160,
+    "weight": 95,
+    "bmi": 37.1,
+    "verdict": "Obese"
+  },
+  "P004": {
+    "name": "David Lee",
+    "age": 52,
+    "gender": "Male",
+    "city": "Seattle",
+    "height": 172,
+    "weight": 70,
+    "bmi": 23.7,
+    "verdict": "Not Obese"
+  },
+  "P005": {
+    "name": "Sophia Martinez",
+    "age": 38,
+    "gender": "Female",
+    "city": "Houston",
+    "height": 168,
+    "weight": 90,
+    "bmi": 31.9,
+    "verdict": "Obese"
+  },
+  "P006": {
+    "name": "James Brown",
+    "age": 41,
+    "gender": "Male",
+    "city": "Boston",
+    "height": 180,
+    "weight": 88,
+    "bmi": 27.2,
+    "verdict": "Not Obese"
+  },
+  "P007": {
+    "name": "Linda Davis",
+    "age": 27,
+    "gender": "Female",
+    "city": "Miami",
+    "height": 162,
+    "weight": 68,
+    "bmi": 25.9,
+    "verdict": "Not Obese"
+  },
+  "P008": {
+    "name": "Robert Wilson",
+    "age": 60,
+    "gender": "Male",
+    "city": "Denver",
+    "height": 175,
+    "weight": 95,
+    "bmi": 31.0,
+    "verdict": "Obese"
+  },
+  "P009": {
+    "name": "Emily Clark",
+    "age": 31,
+    "gender": "Female",
+    "city": "Los Angeles",
+    "height": 158,
+    "weight": 54,
+    "bmi": 21.6,
+    "verdict": "Not Obese"
+  },
+  "P010": {
+    "name": "Daniel Lewis",
+    "age": 49,
+    "gender": "Male",
+    "city": "Phoenix",
+    "height": 183,
+    "weight": 110,
+    "bmi": 32.8,
+    "verdict": "Obese"
+  },
+  "P011": {
+    "name": "Olivia Walker",
+    "age": 36,
+    "gender": "Female",
+    "city": "Dallas",
+    "height": 170,
+    "weight": 74,
+    "bmi": 25.6,
+    "verdict": "Not Obese"
+  },
+  "P012": {
+    "name": "Ethan Hall",
+    "age": 55,
+    "gender": "Male",
+    "city": "San Diego",
+    "height": 176,
+    "weight": 85,
+    "bmi": 27.4,
+    "verdict": "Not Obese"
+  },
+  "P013": {
+    "name": "Ava Young",
+    "age": 22,
+    "gender": "Female",
+    "city": "Portland",
+    "height": 164,
+    "weight": 102,
+    "bmi": 37.9,
+    "verdict": "Obese"
+  },
+  "P014": {
+    "name": "William King",
+    "age": 47,
+    "gender": "Male",
+    "city": "Atlanta",
+    "height": 179,
+    "weight": 77,
+    "bmi": 24.0,
+    "verdict": "Not Obese"
+  },
+  "P015": {
+    "name": "Isabella Scott",
+    "age": 40,
+    "gender": "Female",
+    "city": "Philadelphia",
+    "height": 167,
+    "weight": 93,
+    "bmi": 33.3,
+    "verdict": "Obese"
+  },
+  "patient.id": {
+    "name": "Nitish",
+    "city": "New York",
+    "age": 34,
+    "gender": "Male",
+    "height": 165.0,
+    "weight": 78.0,
+    "bmi": 28.65,
+    "verdict": "Not Obese"
+  },
+  "P0011": {
+    "name": "Nitish",
+    "city": "New York",
+    "age": 34,
+    "gender": "Male",
+    "height": 165.0,
+    "weight": 78.0,
+    "bmi": 28.65,
+    "verdict": "Not Obese"
+  }
+}
